@@ -12,8 +12,8 @@ https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%A3%8C%E3%83%AC%E3%83%BC%E3%82%B5%E3%8
 
 | OS | バイナリ |
 | --- | --- |
-| Windows | 👉 [最新ビルドをダウンロード](https://google.com) |
-| macOS | 👉 [最新ビルドをダウンロード](https://google.com) |
+| Windows(PYracer.exe) | 👉 [最新ビルドをダウンロード](https://github.com/hirossan4049/Pyongyang-Racer/releases/download/1.0.0/PYracerWindows.zip) |
+| macOS | 👉 [最新ビルドをダウンロード](https://github.com/hirossan4049/Pyongyang-Racer/releases/download/1.0.0/PYracerMacOS.zip) |
 
 ---
 
@@ -69,7 +69,7 @@ adt -package \
 - **最高裁平成23年（2011年）12月8日判決**  
   「日本は国家承認していない北朝鮮の著作物を著作権法上保護する義務を負わない」と判断（フジテレビ／日本テレビ勝訴）。  
   → 北朝鮮由来の映像・音楽・画像・テキスト等は、日本国内では著作権保護の対象外（事実上パブリックドメイン）。
-
+<br/>
 
 - 参考記事: [朝日新聞](https://www.asahi.com/special/08001/TKY201112080593.html)  
 - 判例紹介: [newpon 判例紹介](https://www.newpon.com/tm/hanketsu/supreme/s111208_NorthKorea.html)  
